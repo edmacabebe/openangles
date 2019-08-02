@@ -1,5 +1,4 @@
 # Key Computing Timeline Every DevOps Resource Ought To Know
----
 ### Origin stories are important. If we know how something started, it’s possible to extrapolate where it might go, moving forward. 
 |TechEvent|Year|Context/Personalities|Ref/URL|
 |--- |--- |--- |--- |
@@ -60,30 +59,27 @@
 |ETCD|2018|Red Hat and the CoreOS team contributed the ETCD to the Cloud Native Computing Foundation (CNCF)|[ETCD](https://coreos.com/blog/history-etcd)|
 |Linux on Microsoft Windows 10 kernel|2019|Windows Subsystem of Linux 2|[Linux Kernel on Windows 10](https://www.howtogeek.com/413564/windows-10-is-getting-a-built-in-linux-kernel/)|
 
-
-|Kubernetes||||
-
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-
-gogs
-gitea
-jenkins
-linkedin
-twitter
-netflix
-containers
-libvirt
-hypervisors
+#### Soon: 
+```
+    { 
+        gogs,
+        gitea,
+        jenkins,
+        linkedin,
+        twitter,
+        netflix,
+        containers,
+        libvirt,
+        hypervisors,
+        vmware,
+        virtual machine,
+        CICD,
+        CICD Pipeline,
+        IAC,
+        ansible,
+        terraform,
+        openshift,
+        openstack,
+        cloud: azure, aws, gcp
+    }
+```
