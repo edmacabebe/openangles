@@ -1,9 +1,12 @@
-## Origin stories are important. If we know how something started, it’s possible to extrapolate where it might go, moving forward. 
+### Key Computing Timeline Every DevOps Resource Ought To Know
+---
+# Origin stories are important. If we know how something started, it’s possible to extrapolate where it might go, moving forward. 
 |TechEvent|Year|Context/Personalities|Ref/URL|
 |--- |--- |--- |--- |
 |How BASIC kicked it all off|1963|Dartmouth mathematicians John George Kemeny and Tom Kurtzas developed Basic as a tool for undergrad students and the rest was history|[BASIC, a language that preceeded many othe human-readable computer laguages](https://www.thoughtco.com/history-basic-programming-language-1991662)|
-|Unix OS|1969|Ken Thompson, Dennis Ritchie and others started working on the "little-used PDP-7 in a corner" at Bell Labs & what was to become UNIX|[The Unix OS Genesis](http://www.unix.org/what_is_unix/history_timeline.html)|
-|TCP/IP|1970|The most popular network protocol in the world, TCP/IP protocol suite, was designed in 1970s by 2 DARPA scientists—Vint Cerf and Bob Kahn, persons most often called the fathers of the Internet.|[Transport Control Protocol/Internet Protocol](https://history-computer.com/Internet/Maturing/TCPIP.html)|
+|Unix OS|1969-74|Ken Thompson, Dennis Ritchie and others started working on the "little-used PDP-7 in a corner" at Bell Labs & what was to become UNIX|[The Unix OS Genesis](http://www.unix.org/what_is_unix/history_timeline.html)|
+|ARPANET|1966|The founding father of the Internet|[The First Internet](https://www.colocationamerica.com/blog/history-of-ip-address-part-1-arpanet)|
+|TCP/IP|1970|The most popular network protocol in the world, TCP/IP protocol suite, was designed in 1970s by 2 DARPA scientists—Vint Cerf and Bob Kahn, persons most often called the fathers of the Internet.|[Transport Control Protocol/Internet Protocol](https://history-computer.com/Internet/Maturing/TCPIP.html), [What's your IP Address](https://www.colocationamerica.com/blog/history-of-ip-address-part-1-tcp-ip), [TCP/IP Overview](http://www.tcpipguide.com/free/t_TCPIPOverviewandHistory.htm)|
 |C Language|1971-73|Borne out of necessity, the C Language was developed to replace B and Assembly to advance the development of Unix and its utilities|[C Language a predecessor to B](https://www.javatpoint.com/history-of-c-language)|
 |The World's First Off-The-Shelf PC, albeit expensive|1976|Steve Jobs and Steve Wozniak starts to revolutionize the desktop computing landscape|[The World's First PC: Apple I](https://blog.vodien.com/mac-vs-windows-the-history-of-os-competition/#.XTmfG5MzYWo)|
 |Berkeley Unix Distribution|1976|UC, Berkeley, came out with a Unix flavor of their own w/c was based from Research Unix where OpenBSD, FreeBSD and even the now ubiquitous MacOS or iOS ascended|[The various flavors of Unix distributions](https://www.atlantic.net/cloud-hosting/a-brief-history-of-linux-distributions/)
