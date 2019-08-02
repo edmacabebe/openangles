@@ -7,15 +7,29 @@
 |Berkeley Unix Distribution|1976|UC, Berkeley, came out with a Unix flavor of their own w/c was based from Research Unix where OpenBSD, FreeBSD and even the now ubiquitous MacOS or iOS ascended|[The various flavors of Unix distributions](https://www.atlantic.net/cloud-hosting/a-brief-history-of-linux-distributions/)
 |Evolution of the Unix Shell Scripts|1977|Among the Unix shells that eventually stood out was Bash written by Brian Fox in 1989 for the GNU Project as a free software replacement for the Bourne shell|[The Unix Shells](https://developer.ibm.com/tutorials/l-linux-shells/) [Shell Scripting](https://www.shellscript.sh/)|
 |The Macintosh was the darling of Silicon Valley|1979-85|Steve Jobs was on the roll|[The Era of great PC design became the toast of the town](https://www.ocf.berkeley.edu/~viettran/history.htm)|
-|Xenix as Commercial Unix|1979-85|Ironically, it was Microsoft who first commercialized the distribution of Unix but had to rebrand it to Xenix to address copyright issues|[Xenix the Microsoft unix that once was](https://www.unixmen.com/xenix-the-microsoft-unix-that-once-was/), [How Xenix came to be a thorn for OSS Unix in the PC client/server world](http://seefigure1.com/2014/04/15/xenixtime.html)|
+|Xenix as Commercial Unix|1979-85|Ironically, it was Microsoft who first commercialized the distribution of Unix but had to rebrand it to Xenix to address copyright issues with AT&T|[Xenix the Microsoft unix that once was](https://www.unixmen.com/xenix-the-microsoft-unix-that-once-was/), [How Xenix came to be a thorn for OSS Unix in the PC client/server world](http://seefigure1.com/2014/04/15/xenixtime.html), [MS Xenix](https://en.wikipedia.org/wiki/Xenix), [MS love-affair with Unix](http://www.softpanorama.org/People/Torvalds/Finland_period/xenix_microsoft_shortlived_love_affair_with_unix.shtml)|
 |Unix V7 chroot|1979|the chroot system call was introduced, changing the root directory of a process and its children to a new location in the filesystem. This advance was the beginning process isolation: segregating file access for each process.|[A brief history of containers](https://blog.aquasec.com/a-brief-history-of-containers-from-1970s-chroot-to-docker-2016)|
 |IBM PC Acorn on MS DOS|1981|MS first wildly successful OS based on QDOS for the IBM PC DOS|[Microsoft captured the World's imagination with MS-DOS on IBM PCs](https://www.thoughtco.com/microsoft-history-of-a-computing-giant-1991140")[MS Unix](https://fossbytes.com/xenix-history-microsoft-unix-operating-system/) |
 |BSD implements chroot|1982|chroot was added into BSD|[A brief history of containers](https://blog.aquasec.com/a-brief-history-of-containers-from-1970s-chroot-to-docker-2016)|
 |GNU is not Unix|1983|GNU is not Unix by Richard Stallman-father of Open Source Software, in wrestling back Unix to the fold of F/OSS|[GNU History](https://www.livinginternet.com/i/iw_unix_gnulinux.htm)|
-|The F/OSS Rallies its best foot forward|1984|Sharing recipes is as old as cooking|[Stallman & Free Software Foundation starts collaborating](https://medium.com/gitcoin/a-brief-history-of-open-source-3928cb451767), [Why Free Software Shouldn't Have Owners](https://www.gnu.org/philosophy/why-free.html?source=post_page)|
+|The FOSS/FLOSS Rallies its best foot forward|1984|Sharing recipes is as old as cooking|[Stallman & Free Software Foundation starts collaborating](https://medium.com/gitcoin/a-brief-history-of-open-source-3928cb451767), [Why Free Software Shouldn't Have Owners](https://www.gnu.org/philosophy/why-free.html?source=post_page)|
 |The PC Mouse became mainstream and MS Windows Debuted|1983-85|For the First Time, the World at large experienced the minty, slick & flashy multi-tasking graphical user interface of Windows. Years prior, the pc Mouse was introduced along with MS Word|[MS Windows rocked the World!](https://www.thoughtco.com/microsoft-history-of-a-computing-giant-1991140)|
-|WWW specs publicized|1989-93|Tim wrote the 3 fundamental technologies that remain the foundation of today’s web and browser: { HTML: HyperText Markup Language. The markup (formatting) language for the web; URI/URL: Uniform Resource Identifier. A kind of “address” that is unique and used to identify to each resource on the web. It is also commonly called a URL; HTTP: Hypertext Transfer Protocol. Allows for the retrieval of linked resources from across the web}|[Tim also wrote the first web page editor/browser (“WorldWideWeb.app”) and the first web server (“httpd“). By the end of 1990, the first web page was served on the open internet, and in 1991, people outside of CERN were invited to join this new web community](https://webdesign.tutsplus.com/articles/a-brief-history-of-the-world-wide-web--webdesign-8710")|
-|Browsers war|year|||
+|WWW specs publicized|1989-93|Tim wrote the 3 fundamental technologies that remain the foundation of today’s web and browser: { HTML: HyperText Markup Language. The markup (formatting) language for the web; URI/URL: Uniform Resource Identifier. A kind of “address” that is unique and used to identify to each resource on the web. It is also commonly called a URL; HTTP: Hypertext Transfer Protocol. Allows for the retrieval of linked resources from across the web}|[The first web page editor/browser (“WorldWideWeb.app”) and the first web server (“httpd“). In 1991, people outside of CERN were invited to join this new web community](https://webdesign.tutsplus.com/articles/a-brief-history-of-the-world-wide-web--webdesign-8710")|
+|Linux Distributions|1991-present||[Linux Distributions](https://en.wikipedia.org/wiki/Linux_distribution)|
+|Lynx|1992|First text-based browser, particularly well-suited to loading web pages quickly over a slow Internet connection and offers greater user privacy than graphical web browsers. Developed by students at University of Kansas, originally designed to run on Unix/Linux systems|[Oldest text-based Browser](https://websitebuilders.com/how-to/glossary/lynx/)|
+|Mosaic|1993|Marc Andreessen and his team developed the NCSA Mosaic was the first browser to allow images embedded in text making it “the world’s first most popular browser”|[First Global Web Browser](https://www.livinginternet.com/w/wi_mosaic.htm), [The World of Computing Evolved Again](http://scihi.org/ncsa-mosaic-web/)|
+|Netscape Navigator|1994|Netscape came about when two men, Silicon Graphics founder Jim Clark and university graduate Marc Andreessen teamed up and decided to create Mosaic Communications in mid 1994. Mosaic was later renamed to Netscape Communications.|[Most Dominant Browser of the 1990s](https://www.silicon.co.uk/workspace/browser/tales-tech-history-netscape-navigator-197105), [A Precursor to the Browser Wars](https://home.bt.com/tech-gadgets/internet/history-of-web-browser-microsoft-windows-95-mozilla-netscape-11363975314062)|
+|Internet Explorer|1995|Made its debut as Microsoft’s first web browser|[MSIE visual history](https://www.networkworld.com/article/2897729/a-visual-history-of-microsofts-internet-explorer.html)|
+|Opera|1996|First Publicly Available Version was Released|[](https://en.wikipedia.org/wiki/History_of_the_Opera_web_browser)|
+|Safari|2003|Apple’s Safari browser was released specifically for Macintosh computers instead of Navigator||
+|Firefox|2004|||
+|Git|2005|How Git became the powerhouse of Source code repository that it has become now|[Short history of Git](https://git-scm.com/book/en/v2/Getting-Started-A-Short-History-of-Git)|
+|Github|2007|The site developed out of ruby on rails and erlang was launched in April 2008 by Tom Preston-Werner, Chris Wanstrath, and PJ Hyett. Simon Oxley designed the octopuss, alongside the white bird Twitter used (before they received a proper logo) as part of a usual routine of cranking out images for iStock. GitHub saw it, and wanted it, presumably under the notion that it can represent how complex code combines to create peculiar things, much like the octopuss…except the CEO of GitHub called it an octocat, and it has been the octocat since.|[The Untold Story of Github](https://medium.com/@smhatre59/the-untold-story-of-github-132840f72f56)|
+|Google Chrome|2008|||
+|MS Edge|2015|||
+|Opera|1996|||
+|Opera|1996|||
+|Gentoo Linux Distribution|1999|Created by Daniel Robbins as the Enoch Linux Distribution|[Gentoo](https://en.wikipedia.org/wiki/Gentoo_Linux)|
 ||1986|||
 |Containers|1970-2017||[A brief history of containers](https://blog.aquasec.com/a-brief-history-of-containers-from-1970s-chroot-to-docker-2016)|
 |Jails is realised in FreeBSD|2000|The introduction of Jails in FreeBSD achieved clear-cut separation between its services and those of its customers for security and ease of administration. FreeBSD Jails allows administrators to partition a FreeBSD computer system into several independent, smaller systems – called “jails” – with the ability to assign an IP address for each system and configuration.|[A brief history of containers](https://blog.aquasec.com/a-brief-history-of-containers-from-1970s-chroot-to-docker-2016)|
@@ -28,8 +42,14 @@
 |Let Me Contain That For You|2013|(LMCTFY) kicked off in 2013 as an open-source version of Google's container stack, providing Linux application containers. Applications can be made “container aware,” creating and managing their own subcontainers. Active deployment in LMCTFY stopped in 2015 after Google started contributing core LMCTFY concepts to libcontainer, which is now part of the Open Container Foundation.|[A brief history of containers](https://blog.aquasec.com/a-brief-history-of-containers-from-1970s-chroot-to-docker-2016)|
 |Docker|2013|Containers exploded to popularity that containers became synonymous to the brand Docker. Just as Warden did, Docker also used LXC in its initial stages and later replaced that container manager with its own library, libcontainer. But there’s no doubt that Docker separated itself from the pack by offering an entire ecosystem for container management.|[A brief history of containers](https://blog.aquasec.com/a-brief-history-of-containers-from-1970s-chroot-to-docker-2016)|
 |The Importance of Container Security Is Revealed|2016|systems became more complex and risk increased, laying the groundwork for container security. Vulnerabilities like dirty COW only furthered this thinking. This led to a shift left in security along the software development lifecycle, making it a key part of each stage in container app development, also known as DevSecOps. The goal is to build secure containers from the ground up without reducing time to market.|[A brief history of containers](https://blog.aquasec.com/a-brief-history-of-containers-from-1970s-chroot-to-docker-2016)|
+|Kubernetes goes mainstream|2016|||
 |Cloud Native Computing Foundation|2017|Containers became mature. Ceph and REX-Ray set standards for container storage, while Flannel connects millions of containers across datacenters. And in CI/CD, Jenkins is completely changing the way we build and deploy apps.|[A brief history of containers](https://blog.aquasec.com/a-brief-history-of-containers-from-1970s-chroot-to-docker-2016)|
+|Enterprises embraces Kubernetes|2017|||
 |CNCF containers|2018|CRI-O, RKT, ||
+|History of CoreOS Container Linux - RHEL CoreOS|2015-18|Traced its roots from the Gentoo Linux Distribution, is a minimalist "Just enough" OS designed to host containers such as Dockers|[The new kid in the block - CoreOS ](https://www.infoworld.com/article/2692889/coreos-an-existential-threat-to-linux-vendors.html), [Evolution of CoreOS Container Linux combined with RHEL Project Atomic](https://en.wikipedia.org/wiki/Container_Linux)|
+|ETCD||||
+|TCP/IP||||
+|Linux on Microsoft Windows 10 kernel|2019|Windows Subsystem of Linux 2|[Linux Kernel on Windows 10](https://www.howtogeek.com/413564/windows-10-is-getting-a-built-in-linux-kernel/)|
 |||||
 |||||
 |||||
@@ -49,7 +69,13 @@
 |||||
 |||||
 |||||
-|||||
-|||||
-|||||
-|||||
+
+gogs
+gitea
+jenkins
+linkedin
+twitter
+netflix
+containers
+libvirt
+hypervisors
