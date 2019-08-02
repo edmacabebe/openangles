@@ -1,6 +1,6 @@
-### Key Computing Timeline Every DevOps Resource Ought To Know
+# Key Computing Timeline Every DevOps Resource Ought To Know
 ---
-# Origin stories are important. If we know how something started, it’s possible to extrapolate where it might go, moving forward. 
+### Origin stories are important. If we know how something started, it’s possible to extrapolate where it might go, moving forward. 
 |TechEvent|Year|Context/Personalities|Ref/URL|
 |--- |--- |--- |--- |
 |How BASIC kicked it all off|1963|Dartmouth mathematicians John George Kemeny and Tom Kurtzas developed Basic as a tool for undergrad students and the rest was history|[BASIC, a language that preceeded many othe human-readable computer laguages](https://www.thoughtco.com/history-basic-programming-language-1991662)|
