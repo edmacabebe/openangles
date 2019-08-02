@@ -15,7 +15,7 @@
 |The FOSS/FLOSS Rallies its best foot forward|1984|Sharing recipes is as old as cooking|[Stallman & Free Software Foundation starts collaborating](https://medium.com/gitcoin/a-brief-history-of-open-source-3928cb451767), [Why Free Software Shouldn't Have Owners](https://www.gnu.org/philosophy/why-free.html?source=post_page)|
 |The PC Mouse became mainstream and MS Windows Debuted|1983-85|For the First Time, the World at large experienced the minty, slick & flashy multi-tasking graphical user interface of Windows. Years prior, the pc Mouse was introduced along with MS Word|[MS Windows rocked the World!](https://www.thoughtco.com/microsoft-history-of-a-computing-giant-1991140)|
 |WWW specs publicized|1989-93|Tim wrote the 3 fundamental technologies that remain the foundation of today’s web and browser: { HTML: HyperText Markup Language. The markup (formatting) language for the web; URI/URL: Uniform Resource Identifier. A kind of “address” that is unique and used to identify to each resource on the web. It is also commonly called a URL; HTTP: Hypertext Transfer Protocol. Allows for the retrieval of linked resources from across the web}|[The first web page editor/browser (“WorldWideWeb.app”) and the first web server (“httpd“). In 1991, people outside of CERN were invited to join this new web community](https://webdesign.tutsplus.com/articles/a-brief-history-of-the-world-wide-web--webdesign-8710")|
-|Linux Distributions|1991-present||[Linux Distributions](https://en.wikipedia.org/wiki/Linux_distribution)|
+|Linux Distributions|1991-present|Debian/Ubuntu, BSD/FreeBSD, BSD/MacOS, Fedora/RHEL, Gentoo/CoreOS, openSuse, RHEL/Mandrake to Mandriva, RHEL/Scientific Linux, apt-rpm/ALT Linux, Caldera OpenLinux, Knoppix/Feather Linux, pacman/Arch Linux, Gentoo/Chrome, Gentoo/Calculate, Gentoo/Container Linux, Alpine Linux, Android, CRUX, KDE/Mint Linux, GNU/Linux|[Linux Distributions](https://en.wikipedia.org/wiki/List_of_Linux_distributions), [Best Linux Distros](https://www.techradar.com/news/best-linux-distro)|
 |Lynx|1992|First text-based browser, particularly well-suited to loading web pages quickly over a slow Internet connection and offers greater user privacy than graphical web browsers. Developed by students at University of Kansas, originally designed to run on Unix/Linux systems|[Oldest text-based Browser](https://websitebuilders.com/how-to/glossary/lynx/)|
 |Mosaic|1993|Marc Andreessen and his team developed the NCSA Mosaic was the first browser to allow images embedded in text making it “the world’s first most popular browser”|[First Global Web Browser](https://www.livinginternet.com/w/wi_mosaic.htm), [The World of Computing Evolved Again](http://scihi.org/ncsa-mosaic-web/)|
 |Netscape Navigator|1994|Netscape came about when two men, Silicon Graphics founder Jim Clark and university graduate Marc Andreessen teamed up and decided to create Mosaic Communications in mid 1994. Mosaic was later renamed to Netscape Communications.|[Most Dominant Browser of the 1990s](https://www.silicon.co.uk/workspace/browser/tales-tech-history-netscape-navigator-197105), [A Precursor to the Browser Wars](https://home.bt.com/tech-gadgets/internet/history-of-web-browser-microsoft-windows-95-mozilla-netscape-11363975314062)|
@@ -25,10 +25,8 @@
 |Firefox|2004|||
 |Git|2005|How Git became the powerhouse of Source code repository that it has become now|[Short history of Git](https://git-scm.com/book/en/v2/Getting-Started-A-Short-History-of-Git)|
 |Github|2007|The site developed out of ruby on rails and erlang was launched in April 2008 by Tom Preston-Werner, Chris Wanstrath, and PJ Hyett. Simon Oxley designed the octopuss, alongside the white bird Twitter used (before they received a proper logo) as part of a usual routine of cranking out images for iStock. GitHub saw it, and wanted it, presumably under the notion that it can represent how complex code combines to create peculiar things, much like the octopuss…except the CEO of GitHub called it an octocat, and it has been the octocat since.|[The Untold Story of Github](https://medium.com/@smhatre59/the-untold-story-of-github-132840f72f56)|
-|Google Chrome|2008|||
-|MS Edge|2015|||
-|Opera|1996|||
-|Opera|1996|||
+|HTML5 v1.0|2008|Couple of Decades Since Tim Berners-Lee published the WWW specs in 1989, HTML5 got developed to allow innovations such as animations in lieu of Adobe Flash, and eventually became the hottest tech of the Millienia since Steve Jobs announcement that HTML5 is designed to allow fingers to control apps in screens, and not the mouse!|[HTML5](http://html5marketplace.com/briefhistoryHTML5.shtml), [History of the HTML5](https://www.c-sharpcorner.com/UploadFile/b5be7f/html5-a-brief-history/), [Timeline of the HTML5 embrace](https://www.c-sharpcorner.com/UploadFile/b5be7f/html5-a-brief-history/)|
+|Google Chrome|2009|Chrome debuted at a time when developers and internet users were growing frustrated with Internet Explorer, and Firefox had been steadily building momentum.|[Origins of Chrome OS](https://www.zdnet.com/article/the-secret-origins-of-googles-chrome-os/), [History of Chrome](https://www.theverge.com/2018/9/2/17811844/google-chrome-browser-10-years-history), [Story behind Chrome](https://www.niallkennedy.com/blog/2008/09/google-chrome.html)|
 |Gentoo Linux Distribution|1999|Created by Daniel Robbins as the Enoch Linux Distribution|[Gentoo](https://en.wikipedia.org/wiki/Gentoo_Linux)|
 ||1986|||
 |Containers|1970-2017||[A brief history of containers](https://blog.aquasec.com/a-brief-history-of-containers-from-1970s-chroot-to-docker-2016)|
@@ -50,7 +48,7 @@
 |ETCD||||
 |TCP/IP||||
 |Linux on Microsoft Windows 10 kernel|2019|Windows Subsystem of Linux 2|[Linux Kernel on Windows 10](https://www.howtogeek.com/413564/windows-10-is-getting-a-built-in-linux-kernel/)|
-|||||
+|Cloud Native||||
 |||||
 |||||
 |||||
