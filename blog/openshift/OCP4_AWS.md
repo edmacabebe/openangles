@@ -37,4 +37,5 @@ We will then see the procedure steps as below
     mkdir aws
     ./openshift-install create cluster --dir=aws --log-level debug
     ```
-
+    The AWS cluster provisioning will be completed in approximate 30 to 45 mins. So go and get some coffee, team or a refreshment of your choice. Once done, you'll see something like the below.
+    ![AWS Cluster Provision Complete](https://github.com/edmacabebe/openangles/blob/master/images/aws%20cluster%20provision%20complete.png "aws provision complete")
