@@ -18,19 +18,23 @@ We will then see the procedure steps as below
 4. Download the Openshift Installer
     - Download the Openshift Installer Binary from the RH OCP4 official installer site. Be mindful of version, 4.1 and 4.2 supports AWS deployments and what your deployment machine is whether linux, windows or mac. So for mac, open the terminal
     - Create a OCP4 folder and get inside by calling
-        ` mkdir OCP4 && cd OCP4`
+    ` mkdir OCP4 && cd OCP4`
     - Download the openshift installer:
-        ```
-            curl https://mirror.openshift.com/pub/openshift-v4/clients/ocp/latest/openshift-install-mac-4.1.4.tar.gz -o openshift-install-mac-4.1.4.tar.gz
-            tar xvf openshift-install-mac-4.1.4.tar.gz
-        ```     
-
-5. Download the Pull secret
+    ```
+    curl https://mirror.openshift.com/pub/openshift-v4/clients/ocp/latest/openshift-install-mac-4.1.4.tar.gz -o openshift-install-mac-4.1.4.tar.gz
+    tar xvf openshift-install-mac-4.1.4.tar.gz
+    ```     
+5. Download the Pull secret text
+    - You will need to paste the content of this secret later during the openshift installation
 6. Download the Command Line Tools
-* oc
-* kubectl
-
-
-
-
+    - Download the openshift client
+    ```
+    curl https://mirror.openshift.com/pub/openshift-v4/clients/ocp/latest/openshift-client-mac-4.1.4.tar.gz -o openshift-client-mac-4.1.4.tar.gz
+    tar xvf openshift-client-mac-4.1.4.tar.gz
+    ```
+7. Provision the Cluster
+    ```
+    mkdir aws
+    ./openshift-install create cluster --dir=aws --log-level debug
+    ```
 
