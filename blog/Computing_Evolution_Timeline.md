@@ -2,7 +2,7 @@
 ### Origin stories are important. If we know how something started, it’s possible to extrapolate where it might go, moving forward. 
 |TechEvent|Year|Context/Personalities|Ref/URL|
 |--- |--- |--- |--- |
-|Automatic Turing Machine|1936|Alan Turing and the Enigma Machine|[Alan Turing's Machine](https://dzone.com/articles/a-short-history-lesson-in-devops-and-where-its-goi-1)|
+|Automatic Computing Turing Machine|1936|Alan Turing, the father of modern Computer Science who cryptanalized the Enigma Machine|[Riveting Facts about Alan Turing](http://mentalfloss.com/article/503325/15-riveting-facts-about-alan-turing),[Alan Turing's Machine](https://dzone.com/articles/a-short-history-lesson-in-devops-and-where-its-goi-1)|
 |Fortran, the first programming language and the first Developer role/job came about|1957|The year Formula Translation Language became hip|[Fortran](https://dzone.com/articles/a-short-history-lesson-in-devops-and-where-its-goi-1)|
 |BASIC Language|1963|Dartmouth mathematicians John George Kemeny and Tom Kurtzas developed Basic as a tool for undergrad students and the rest was history|[BASIC, a language that preceeded many othe human-readable computer laguages](https://www.thoughtco.com/history-basic-programming-language-1991662)|
 |Unix OS|1969-74|Ken Thompson, Dennis Ritchie and others started working on the "little-used PDP-7 in a corner" at Bell Labs & what was to become UNIX|[The Unix OS Genesis](http://www.unix.org/what_is_unix/history_timeline.html)|
