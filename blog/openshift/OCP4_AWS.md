@@ -39,3 +39,20 @@ We will then see the procedure steps as below
     ```
     The AWS cluster provisioning will be completed in approximate 30 to 45 mins. So go and get some coffee, team or a refreshment of your choice. Once done, you'll see something like the below.
     ![AWS Cluster Provision Complete](https://github.com/edmacabebe/openangles/blob/master/images/aws%20cluster%20provision%20complete.png "aws provision complete")
+    Open a browser using this URL: https://console-openshift-console.apps.ed.mcbee.ml
+	Login as *kubeadmin* and use password: *Q5Jg9-me7IT-GqPgf-E27CT*
+    In the terminal, invoke the following
+    ```
+    export KUBECONFIG=/Users/macabee/devws/ocp4-azure/ocp4.1/aws/auth/kubeconfig
+	oc get nodes 
+	oc get templates -n openshift |grep jenkins
+	oc new-app jenkins-ephemeral
+	oc get routes
+    ```
+    or if you have Kubernetes client installed, try out
+    ```
+    kubectl get node
+    kubectl cluster-info
+    kubectl get all -n openshift
+    ```
+
