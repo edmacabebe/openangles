@@ -55,4 +55,7 @@ We will then see the procedure steps as below
     kubectl cluster-info
     kubectl get all -n openshift
     ```
-
+8. And so, when I'm done using this platform, I make sure I don't get over-billed beyond my budget, I can teardown the platform cluster by, something similar to terraform destroy, in this manner
+    ```
+    ./openshift-install destroy cluster --dir=aws
+    ```
